@@ -1,5 +1,5 @@
 import main
-
+import sys
 main.print_hi("Johannes!")
 
 nummer = 10
@@ -16,3 +16,5 @@ print(schuler == "John")
 
 nummmer = 1.3
 print(type(nummmer))
+
+print(sys.getsizeof(nummer))
