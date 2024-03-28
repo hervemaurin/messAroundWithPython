@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5dad365-5ce3-4856-bf61-8a336132c38c" name="Changes" comment="variable">
-      <change afterPath="$PROJECT_DIR$/ifElse.py" afterDir="false" />
+    <list default="true" id="a5dad365-5ce3-4856-bf61-8a336132c38c" name="Changes" comment="if else Anweisung">
+      <change afterPath="$PROJECT_DIR$/listen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/variable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ifElse.executor": "Run",
+    "Python.listen.executor": "Run",
     "Python.main.executor": "Run",
     "Python.variable.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711659722995</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="if else Anweisung">
+      <option name="closed" value="true" />
+      <created>1711663326150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711663326150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add project messAround" />
     <MESSAGE value="variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="variable" />
+    <MESSAGE value="if else Anweisung" />
+    <option name="LAST_COMMIT_MESSAGE" value="if else Anweisung" />
   </component>
 </project>
