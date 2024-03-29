@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5dad365-5ce3-4856-bf61-8a336132c38c" name="Changes" comment="listen">
-      <change afterPath="$PROJECT_DIR$/listen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schleife.py" afterDir="false" />
+    <list default="true" id="a5dad365-5ce3-4856-bf61-8a336132c38c" name="Changes" comment="schleife">
+      <change afterPath="$PROJECT_DIR$/funktionen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.funktionen.executor": "Run",
     "Python.ifElse.executor": "Run",
     "Python.listen.executor": "Run",
     "Python.main.executor": "Run",
@@ -121,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711666473238</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1711713424949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711713424949</updated>
+    </task>
+    <task id="LOCAL-00006" summary="schleife">
+      <option name="closed" value="true" />
+      <created>1711713446688</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711713446688</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +156,8 @@
     <MESSAGE value="variable" />
     <MESSAGE value="if else Anweisung" />
     <MESSAGE value="listen" />
-    <option name="LAST_COMMIT_MESSAGE" value="listen" />
+    <MESSAGE value="refactor" />
+    <MESSAGE value="schleife" />
+    <option name="LAST_COMMIT_MESSAGE" value="schleife" />
   </component>
 </project>
