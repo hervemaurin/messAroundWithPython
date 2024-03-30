@@ -1,0 +1,66 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a5dad365-5ce3-4856-bf61-8a336132c38c\" name=\"Changes\" comment=\"schleife\">\n      <change afterPath=\"$PROJECT_DIR$/objekt.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/listen.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/listen.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"2eKbm7gvdhSTiIBa28g8u1f9RhT\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Python.funktionen.executor\": \"Run\",\n    \"Python.ifElse.executor\": \"Run\",\n    \"Python.listen.executor\": \"Run\",\n    \"Python.main.executor\": \"Run\",\n    \"Python.objekt.executor\": \"Run\",\n    \"Python.schleife.executor\": \"Run\",\n    \"Python.variable.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"messAroundWithPython\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a5dad365-5ce3-4856-bf61-8a336132c38c\" name=\"Changes\" comment=\"\" />\n      <created>1711656372263</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1711656372263</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Add project messAround\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1711657685072</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1711657685072</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"variable\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1711659722995</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1711659722995</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"if else Anweisung\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1711663326150</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1711663326150</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"listen\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1711666473238</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1711666473238</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"refactor\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1711713424949</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1711713424949</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"schleife\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1711713446688</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1711713446688</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"schleife\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1711718042187</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1711718042187</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"8\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Add project messAround\" />\n    <MESSAGE value=\"variable\" />\n    <MESSAGE value=\"if else Anweisung\" />\n    <MESSAGE value=\"listen\" />\n    <MESSAGE value=\"refactor\" />\n    <MESSAGE value=\"schleife\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"schleife\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2c2637c38365edab345b367c142817ddde8d6ee0)
++++ b/.idea/workspace.xml	(date 1711814215757)
+@@ -4,10 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a5dad365-5ce3-4856-bf61-8a336132c38c" name="Changes" comment="schleife">
+-      <change afterPath="$PROJECT_DIR$/objekt.py" afterDir="false" />
++    <list default="true" id="a5dad365-5ce3-4856-bf61-8a336132c38c" name="Changes" comment="Ojekts">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/listen.py" beforeDir="false" afterPath="$PROJECT_DIR$/listen.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -37,20 +35,20 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.funktionen.executor": "Run",
+-    "Python.ifElse.executor": "Run",
+-    "Python.listen.executor": "Run",
+-    "Python.main.executor": "Run",
+-    "Python.objekt.executor": "Run",
+-    "Python.schleife.executor": "Run",
+-    "Python.variable.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.funktionen.executor&quot;: &quot;Run&quot;,
++    &quot;Python.ifElse.executor&quot;: &quot;Run&quot;,
++    &quot;Python.listen.executor&quot;: &quot;Run&quot;,
++    &quot;Python.main.executor&quot;: &quot;Run&quot;,
++    &quot;Python.objekt.executor&quot;: &quot;Run&quot;,
++    &quot;Python.schleife.executor&quot;: &quot;Run&quot;,
++    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager">
+     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="messAroundWithPython" />
+@@ -168,6 +166,7 @@
+     <MESSAGE value="listen" />
+     <MESSAGE value="refactor" />
+     <MESSAGE value="schleife" />
+-    <option name="LAST_COMMIT_MESSAGE" value="schleife" />
++    <MESSAGE value="Ojekts" />
++    <option name="LAST_COMMIT_MESSAGE" value="Ojekts" />
+   </component>
+ </project>
+\ No newline at end of file
