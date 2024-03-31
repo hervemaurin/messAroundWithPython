@@ -22,7 +22,7 @@ root.mainloop()
 
 print(os.getcwd())
 """
-
+"""
 root = Tk()
 root.title("Interface")
 #root.iconbitmap("hour_time_watch_clock_icon_262574.ico")
@@ -54,6 +54,22 @@ knopf = Button(box, text="Click")
 knopf.pack(fill=X)
 
 box.pack(side=LEFT, expand=TRUE)
+"""
 
+root = Tk()
+root.title("My Interface")
+root.minsize(200, 500)
+button = Button(root, text="click", height=10)
+button.grid(row=0, column=0)
+button2 = Button(root, text="click")
+button2.grid(row=0, column=1, sticky= SW, ipadx=20) # W, S, N, E NW, SW, NE, SEwie coordinate
+label = Label(root, text="Name")
+label.grid(row=1, column=0)
+formular= Entry(root, width=30)
+formular.grid(row=1, column=0, columnspan=2)
+label2 = Label(root, text="Nachname")
+label2.grid(row=2, column=0)
+formular2= Entry(root)
+formular2.grid(row=2, column=1)
 
 root.mainloop()

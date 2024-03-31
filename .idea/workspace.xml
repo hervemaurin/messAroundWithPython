@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5dad365-5ce3-4856-bf61-8a336132c38c" name="Changes" comment="gui">
+    <list default="true" id="a5dad365-5ce3-4856-bf61-8a336132c38c" name="Changes" comment="gui pack()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
     </list>
@@ -188,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711838859495</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="gui pack()">
+      <option name="closed" value="true" />
+      <created>1711885918497</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711885918497</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +219,8 @@
     <MESSAGE value="schleife" />
     <MESSAGE value="Ojekts" />
     <MESSAGE value="gui" />
-    <option name="LAST_COMMIT_MESSAGE" value="gui" />
+    <MESSAGE value="gui pack()" />
+    <option name="LAST_COMMIT_MESSAGE" value="gui pack()" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -219,11 +228,6 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gui.py</url>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gui.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
